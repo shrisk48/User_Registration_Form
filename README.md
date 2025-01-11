@@ -20,7 +20,7 @@ This lightweight and secure user authentication system simplifies user registrat
 ---
 
 ## 💻 Technology Stack  
-
+- 🎨 **Frontend**: React.js
 - ⚙️ **Backend**: Node.js, Express.js  
 - 🗂️ **Database**: MongoDB 
 - 🔒 **Authentication**: JSON Web Tokens (JWT) for secure sessions  
